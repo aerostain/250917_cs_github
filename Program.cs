@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine($"\nGit Branch = Main\n");
 List<User> mylist = new();
 
 for (int i = 1; i <= 10; i++)
