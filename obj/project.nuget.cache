@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBfnAiVLmCs=",
+  "success": true,
+  "projectFilePath": "Z:\\R1ck7\\Documents\\2025\\09Sep\\d16\\cs_github\\cs_github.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R1ck7\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\R1ck7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\R1ck7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\R1ck7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
