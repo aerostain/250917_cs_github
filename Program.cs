@@ -9,12 +9,16 @@ mylist.ForEach(x => Console.WriteLine($"{x.Score} - {x.Check}"));
 
 Console.WriteLine("Despues del cambio");
 
-mylist.Select(i => i with
-      {
-        Check = i.Score < 0.5 ? true : false,
-        Score = Math.Round(i.Score, 2)
-      })
+mylist.Select(i => Cambios(i))
       .ToList()
       .ForEach(x => Console.WriteLine($"{x.Score} - {x.Check}"));
 
+static User Cambios(User user)
+{
+  return user with
+  {
+    Check = user.Score < 0.5,
+    Score = Math.Round(user.Score,2)
+  };
+}
 public record User(int Id, string? Nap, double Score, bool Check);
