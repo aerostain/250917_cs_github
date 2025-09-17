@@ -21,4 +21,6 @@ static User Cambios(User user)
     Score = Math.Round(user.Score,2)
   };
 }
+
+Console.WriteLine($"\n ==> FIN <==\n");
 public record User(int Id, string? Nap, double Score, bool Check);
