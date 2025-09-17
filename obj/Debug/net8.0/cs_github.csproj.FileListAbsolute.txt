@@ -1,0 +1,15 @@
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\bin\Debug\net8.0\cs_github.exe
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\bin\Debug\net8.0\cs_github.deps.json
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\bin\Debug\net8.0\cs_github.runtimeconfig.json
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\bin\Debug\net8.0\cs_github.dll
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\bin\Debug\net8.0\cs_github.pdb
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.GeneratedMSBuildEditorConfig.editorconfig
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.AssemblyInfoInputs.cache
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.AssemblyInfo.cs
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.csproj.CoreCompileInputs.cache
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.sourcelink.json
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.dll
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\refint\cs_github.dll
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.pdb
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\cs_github.genruntimeconfig.cache
+Z:\R1ck7\Documents\2025\09Sep\d16\cs_github\obj\Debug\net8.0\ref\cs_github.dll
