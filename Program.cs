@@ -9,7 +9,11 @@ mylist.ForEach(x => Console.WriteLine($"{x.Score} - {x.Check}"));
 
 Console.WriteLine("Despues del cambio");
 
-mylist.Select(i => i with { Check = i.Score < 0.5 ? true : false })
+mylist.Select(i => i with
+      {
+        Check = i.Score < 0.5 ? true : false,
+        Score = Math.Round(i.Score, 2)
+      })
       .ToList()
       .ForEach(x => Console.WriteLine($"{x.Score} - {x.Check}"));
 
